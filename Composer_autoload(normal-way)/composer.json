@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "classmap": [
+      "australia" , "bangladesh"       // folder name and  [./] for all classes we can use
+    ],
+    "files": [
+      "india.php"
+    ]
+  }
+}
